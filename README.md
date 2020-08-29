@@ -1,6 +1,9 @@
+<p align="center">
 <a href="https://drive.google.com/uc?export=view&id=13wvJkfabLVQqh6rsjQ4aNei41rrOsSQj"><img src="https://drive.google.com/uc?export=view&id=13wvJkfabLVQqh6rsjQ4aNei41rrOsSQj" style="width: 100000px; max-width: 50%; height: auto" title="Click for the larger version." /></a > 
+     </p>
+
 # Executive Summary #
-For Lab 1 of IT 1025 at Tri-C, I broke into the world of information systems. Simply put, I was reminded of the saying "knowledge is power." Chapter 1 of <ins>Information Systems for Business and Beyond</ins> takes this idea a step further. David Bourgeois underlines how we must collect, store, organize and distribute data throughout humankind in order to make tangible improvements in our lives.
+For Lab 1 of IT 1025 at Tri-C, I broke into the world of information systems. Simply put, I was reminded of the saying "knowledge is power." Chapter 1 of <ins>Information Systems for Business and Beyond</ins> takes this idea a step further. David Bourgeois underlines how we must collect, store, organize and distribute data throughout organizations in order to make tangible improvements in our lives.
 
 I learned that modern phenomena like smartphones, Wi-Fi, and gloablization are the direct result of past innovations. When they were introduced only a few short decades ago, the mainframe, the client-server model, and the internet forever changed the world. Information systems continue to streamline the way we communicate and do business with each other. As super-connectivity becomes more of a consumer expectation, businesses will probably invest in these systems increasingly, and make history. I look forward to mastering concepts in IT 1025 and changing lives with tech. 
 
