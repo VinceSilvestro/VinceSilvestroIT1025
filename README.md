@@ -24,9 +24,9 @@ Information Systems are defined by their components: hardware, software, data, p
           
 # GitHub 
 - ### Client-Server
-     GitHub is a Client-Server experience. Users like myself and my classmates (the clients) can access GitHub because we are all connected to centralized GitHub servers. In some cases we can also commnuicate with other GitHub users on the platform. 
+     GitHub is a Client-Server experience. Users like myself and my classmates (the clients) can access GitHub because we are all connected through servers. Together the servers make up a centralized virtual database. In many cases users can also commnuicate with one another through the GitHub platform. 
 - ### Cloud Computing
-   GitHub is considered Cloud Computing because 
+   GitHub is considered Cloud Computing because it provides users with mobile access to data
 
 ---
 <p align="center">
