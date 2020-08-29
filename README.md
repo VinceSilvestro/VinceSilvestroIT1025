@@ -7,7 +7,7 @@ For Lab 1 of IT 1025 at Tri-C, I broke into the world of information systems. Si
 
 I learned that modern phenomena like smartphones, Wi-Fi, and globalization are the direct result of past innovations. When they were introduced only a few short decades ago, the mainframe, the client-server model, and the internet forever changed the world. Information systems continue to streamline the way we communicate and do business with each other. As super-connectivity becomes more of a consumer expectation, businesses will probably invest in these systems increasingly, and make history. I look forward to mastering concepts in IT 1025 and changing lives with tech. 
 
-On the software side, I got my GitHub account up and running. I took a shot at formatting my first readme.md file, which is this one. 
+On the software side, I got my GitHub account up and running. I took a shot at formatting my first readme.md file, which is this one.  
 
 ---
 
@@ -28,8 +28,7 @@ Information Systems are defined by their components: hardware, software, data, p
 - ### Client-Server
      GitHub is a Client-Server experience. Users like myself and my classmates (the clients) can access GitHub because we are all connected through servers. Together the servers make up a centralized virtual database. In many cases users can also commnuicate with one another through the GitHub platform. 
 - ### Cloud Computing
-   GitHub is considered Cloud Computing because it provides users with mobile access to data
-
+   GitHub is considered Cloud Computing because it provides users with mobile access to data: GitHub files, folders and more are stored in "the cloud." Before the internet, the repository for data was usually a local machine, and only accessible to computers logged into a Local Area Network. Today, the "repo" for data *is* the cloud. 
 ---
 
 <p align="center">
