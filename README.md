@@ -1,6 +1,7 @@
 <p align="center">
 <a href="https://drive.google.com/uc?export=view&id=13wvJkfabLVQqh6rsjQ4aNei41rrOsSQj"><img src="https://drive.google.com/uc?export=view&id=13wvJkfabLVQqh6rsjQ4aNei41rrOsSQj" style="width: 100000px; max-width: 50%; height: auto" title="Click for the larger version." /></a > 
      </p>
+     
 # Executive Summary #
 For Lab 1 of IT 1025 at Tri-C, I broke into the world of information systems. Simply put, I was reminded of the saying "knowledge is power." Chapter 1 of <ins>Information Systems for Business and Beyond</ins> takes this idea a step further. David Bourgeois underlines how we must collect, store, organize and distribute data throughout organizations in order to make tangible improvements in our lives.
 
