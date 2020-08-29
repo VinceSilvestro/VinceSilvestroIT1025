@@ -10,6 +10,7 @@ I learned that modern phenomena like smartphones, Wi-Fi, and globalization are t
 On the software side, I got my GitHub account up and running. I took a shot at formatting my first readme.md file, which is this one. 
 
 ---
+
 <p align="center">
 <a href="https://drive.google.com/uc?export=view&id=1UCp1enjkBKAwIDs-EVmi9xqL2R-HdkwB"><img src="https://drive.google.com/uc?export=view&id=1UCp1enjkBKAwIDs-EVmi9xqL2R-HdkwB" style="width: 100000px; max-width: 50%; height: auto" title="Click for the larger version." /></a > 
           </p>
@@ -18,6 +19,7 @@ On the software side, I got my GitHub account up and running. I took a shot at f
 Information Systems are defined by their components: hardware, software, data, people, processes, and network communication. An information system that I use every day is my family's digital shopping list. The system is an Android/iOS spreadsheet (software) that helps us make sure we always have our favorite groceries at home. The hardware includes each family members' smartphone and the network communication is Wi-Fi/4G. As we run out of listed items, family members (people) fill the checkboxes (data) next to the appropriate items. This signifies that we need to buy more. Additionally, family members write a note if we are almost out of an item. This is the process of the collaborative list, an exmaple of an information system.
 
 ---
+
 <p align="center">
 <a href="https://drive.google.com/uc?export=view&id=1GxGyMFPzx_vdrQUlBrOiM8rLWAa6UDQV"><img src="https://drive.google.com/uc?export=view&id=1GxGyMFPzx_vdrQUlBrOiM8rLWAa6UDQV" style="width: 100000px; max-width: 50%; height: auto" title="Click for the larger version." /></a > 
           </p>
@@ -29,6 +31,7 @@ Information Systems are defined by their components: hardware, software, data, p
    GitHub is considered Cloud Computing because it provides users with mobile access to data
 
 ---
+
 <p align="center">
 <a href="https://drive.google.com/uc?export=view&id=1kBHKUetWTJiNFI4iuYhhHP3Mu3iMEFhy"><img src="https://drive.google.com/uc?export=view&id=1kBHKUetWTJiNFI4iuYhhHP3Mu3iMEFhy" style="width: 100000px; max-width: 50%; height: auto" title="Click for the larger version." /></a > 
           </p> 
