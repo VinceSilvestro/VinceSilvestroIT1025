@@ -1,5 +1,6 @@
-# Executive Summary
-This lab explores my findings from researching information systems hardware and ethics. Hardware is not just confined to computers, screens, keyboards, and mice as I initially thought. Components all the way from SSDs to ALUs are very much integral parts of information systems hardware. As these and similar technologies continue to advance at a rapid pace, more people are seriously considering the ethical dilemmas that surround the future of information systems.
+# Executive Summary # 
+This lab explores my findings from researching information systems hardware and ethics. Hardware is not just confined to computers, screens, keyboards, and mice as I initially thought. Components all the way from SSDs to ALUs are very much integral parts of information systems hardware. As these and similar technologies continue to advance at a rapid pace, more people are seriously considering the ethical dilemmas that surround the future of information systems. 
+
 ---
 
 # Hardware
@@ -29,5 +30,5 @@ When considering accessibility in web sites, this color could be problematic. Fo
 ---
 
 # Conclusion 
-- ### In this lab, I analyzed hardware components like hard drives, RAM, data paths, ALUs, control units, registers, and logic gates. I examined different numbering systems like decimal, binary and hexadecimal. 
-- ### Gordon Moore, one of the founders of Intel, recognized that microprocessor transistor counts had been doubling every year in 1965. In 2020, more than ever, it is evident that AI’s ability to influence people can be used for good or bad. Taking into account the speed at which microprocessor technology improves, we must continuously remind ourselves that the technological decisions we make today can and will shape the course of history. 
+In this lab, I analyzed hardware components like hard drives, RAM, data paths, ALUs, control units, registers, and logic gates. I examined different numbering systems like decimal, binary and hexadecimal. 
+Gordon Moore, one of the founders of Intel, recognized that microprocessor transistor counts had been doubling every year in 1965. In 2020, more than ever, it is evident that AI’s ability to influence people can be used for good or bad. Taking into account the speed at which microprocessor technology improves, we must continuously remind ourselves that the technological decisions we make today can and will shape the course of history. 
