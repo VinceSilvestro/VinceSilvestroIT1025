@@ -44,6 +44,7 @@ Cisco Certified Technicians, through entry certifications at Cisco Systems, lear
 Tri-C’s certificate in web application development constitutes exploring technologies to analyze, design, develop, implement and test database-driven web applications.
 - ###  Industry Associations / Student Organizations
 The purpose of the Institute of Electrical and Electronics Engineers or IEEE is to serve professionals in science, technology, electrical, electronic, and computing fields. The association is dedicated to advancing technology for the benefit of humanity. 
+
 ---
 
 # Conclusion 
