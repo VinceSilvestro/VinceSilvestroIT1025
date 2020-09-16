@@ -33,16 +33,16 @@ The difference between an interpreted and a compiled language lies in the result
 
 ---
 # Career Exploration
---- # College Central
+- ### College Central
 	From internships to full time jobs, College Central has thousands of professional opportunities for college students.
 
 One especially appealing job on the U.S. Bureau of Labor Statistics website is the Computer Support Specialist role. In 2019, the position’s median pay was $26.33 per hour. The job outlook is projected to grow 8% over the next 9 years. 
 
---- # Certifications 
+- ### Certifications 
 Cisco Certified Technicians, through entry certifications at Cisco Systems, learn to diagnose, restore, repair, and replace critical Cisco networking and system devices at customer sites.
---- # Certificates 
+- ###  Certificates 
 Tri-C’s certificate in web application development constitutes exploring technologies to analyze, design, develop, implement and test database-driven web applications.
---- # Industry Associations / Student Organizations
+- ###  Industry Associations / Student Organizations
 	The purpose of the Institute of Electrical and Electronics Engineers or IEEE is to serve professionals in science, technology, electrical, electronic, and computing fields. The association is dedicated to advancing technology for the benefit of humanity. 
 ---
 
