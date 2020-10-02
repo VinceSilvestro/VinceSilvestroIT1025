@@ -16,27 +16,27 @@ Generally speaking I think that flowcharts are a great way to go about solving p
 
 # Introduction to Networking
 
-- # Data Transmission 
+- ### Data Transmission 
 
 To understand the basics of networking, it is important to understand terms like packet, packet-switching, IP address, DNS, and protocol. A packet refers to the fundamental unit of data transmitted over the Internet. A single packet contains the sender’s address, the destination address, a sequence number (which helps in ordering the man packet requests), and a segment of the overall message being delivered. Packet-switching is technology that allows packets of data to be routed based on its destination address. It occurs when routers reorganize packets for the most effective user experience possible. IP addresses, found in packets, are unique identifying numbers found on every individual device connected to the internet. The Domain Name System/Server, or DNS, is essentially a directory of IP address common names. DNS comes into play when a user requests to access a website. A DNS server is then queried and at that point returns the IP address of the host requested, which allows for proper routing. A protocol denotes a set of rules to allow devices to communicate. They dictate how communications take place on a given network.
 
-- # Network Hardware
+- ### Network Hardware
 
 A hub connects network devices together on an internal network with the use of ethernet cables. A hub merely copies all packets to each connected network device and is not capable of selectively transferring data from one specific device to another. Switches differ in that they can in fact pass along data from one machine to another (or a group of them) exclusively. This is accomplished by virtue of the switch’s ability to read the physical MAC addresses of connected devices. This makes switches generally preferable over hubs as they reduce excessive network traffic, thus saving bandwidth.  
 
 As cloud computing continues to dominate, another piece of network hardware called the router is even more preferred over the switch—routers are used to connect one network to another network based on their IP address. Hubs and switches are used to create networks, and routers are used to connect networks. 
 
-- # Network Topologies
+- ### Network Topologies
 
 A network topology is a layout of how a network communicates with different devices. Most commonly, the star topology is a network made up of computers and hardware such a hub or a switch. When the switch in a star topologies is compromised, this is known as a single point of failure.
 
 Infrastructure Topology and Wireless Mesh are two wireless topologies. They are similar because they both involve modems drawing an internet connection into a building and also switches to further carrying signals to wireless routers and then wireless devices. Wired devices are present in Infrastructure but not present in Wireless Mesh topologies. Wireless mesh takes the signal from the wireless router connected to the switch and repeats it to other nearby WAPs in the network. In my opinion, Wireless Mesh topologies are better because they offer stronger backup options to users in the network. 
 
-- # Network Design
+- ### Network Design
 	
 The network I designed on Lucidchart exhibits an Infrastructure Topology. It begins with a modem (at the top) providing signal to the wired router below it. The router bridges the modem with a wireless router (left) and a wired desktop computer. The wireless router or WAP carries the signal to the printer (bottom left) and wireless laptop (bottom right), providing internet access. 
 
-- # NSA/CSS
+- ### NSA/CSS
 
 The National Security Agency or NSA is an active player in U.S. cybersecurity. The agency leads the government in ways to encrypt and decrypt data. It protects the country and our allies by managing computer network operations incessantly. 
 
@@ -44,7 +44,7 @@ The National Security Agency or NSA is an active player in U.S. cybersecurity. T
 
 # Cybersecurity and Encryption
 
-- # Information Systems Security
+- ### Information Systems Security
 
 In computing, the information security triad is Confidentiality, Integrity, and Availability (CIA). Hypothetically, as a part of the Amazon.com online chat, each component of the security triad would impact my job in some way. I would have moral, and probably legal, obligations to keep Amazon customers’ purchase and browsing history private. Further, I would need to work with integrity. This means protecting user information and not exploiting customers’ home addresses, phone numbers, or credit card numbers. Availability here would mean a couple of things: twenty-four online accessibility of the personal Amazon-stored information to customers and around-the-clock availability of the same critical information to relevant Amazon.com online chat workers. 
 
@@ -56,7 +56,7 @@ In public key encryption, both the sender and receiver of an encrypted message h
 
 Public key cryptography is crucial for sharing information to only certain people or specific groups of people. It prevents encoded information from being obtained by rivals of a corporation or national enemies, for example. 
 
-- # Cryptography 
+- ### Cryptography 
 
 Using the Caesar Cipher Exploration box, my secret message came out to be “jvtivkj 
 jvtivkj riv ef wle.” To encrypt my message using Caesar Cipher, I applied a shift of 
@@ -70,7 +70,7 @@ A polyalphabetic cipher creates a lighter fingerprint than the Caesar cipher. It
 
 In the Polyalphabetic Exploration box, I entered “wise men have no secrets” with my shift word being “guess.” The box gave out the message “ddxx fli mtol it lxjmjml.” The box took my shift word and analyzed each letter of it in terms of its position in the alphabet. This progression of shift numbers was applied to the message and each of its letters were translated using the Caesar Cipher. 
 
-- # Brute-Force
+- ### Brute-Force
 
 In hacking, brute-force is a technique that analyzes a cipher and generates keys until it can correctly guess the decryption key. Kerckhoffs’ principle states that a cipher “should still be secure even if everyone knows how the cipher works and someone else has the ciphertext.” When creating passwords, for example, internet users must keep in mind Kerckhoffs’ principle; the part of the cipher that keeps the message secret is the key; and realize that Brute-force is still a powerful way for hackers to access and manipulate our personal data. 
 
