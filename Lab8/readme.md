@@ -62,6 +62,6 @@ Personally identifiable information is being collected about internet users all 
 
 # Conclusion
 
-This lab explored data, information and knowledge topics such as relational data and big data in the form of databases; SQL; SQL injections and hacking; and finally the ethical and legal implications of data collection, like codes of ethics, intellectual property, and information collection. 
+This lab explored data, information and knowledge topics such as relational data and big data in the form of databases; SQL; SQL injections and hacking; and finally the ethical and legal implications of data collection, involving codes of ethics, intellectual property, and information collection. 
 
 
